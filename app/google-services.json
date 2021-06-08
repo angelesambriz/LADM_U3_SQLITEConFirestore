@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614392399728",
+    "project_id": "ladm-u3-sqliteconfiresto-25335",
+    "storage_bucket": "ladm-u3-sqliteconfiresto-25335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614392399728:android:f0469cd48c03757e8a31b5",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_sqliteconfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614392399728-d467004gej75kaa6kup8voqogsugih6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cgNfJI0kJP6-x7aHhmgegZlm2PMQgEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614392399728-d467004gej75kaa6kup8voqogsugih6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
